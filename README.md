@@ -10,7 +10,7 @@ This Password Generator web application allows users to create secure and random
 -Easy-to-use interface
 -Instant password generation
 
-$Technologies Used
+#Technologies Used
 -HTML
 -CSS
 -JavaScript
